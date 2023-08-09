@@ -1,0 +1,17 @@
+.productTile {
+  width: 400px;
+  height: 400px;
+  background-color: lightseagreen;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.product-brief {
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #fff;
+  flex-direction: column;
+  padding: 20px;
+}

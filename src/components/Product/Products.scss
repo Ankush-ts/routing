@@ -1,0 +1,18 @@
+.align {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  background-color: teal;
+  border: none;
+  outline: none;
+  border-radius: 16px;
+  cursor: pointer;
+  align-self: flex-start;
+  margin-top: 20px;
+}
